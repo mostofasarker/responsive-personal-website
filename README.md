@@ -1,2 +1,2 @@
 # responsive protfolio
-https://github.com/mostofasarker/responsive-personal-website
+https://mostofasarker.github.io/responsive-personal-website/
